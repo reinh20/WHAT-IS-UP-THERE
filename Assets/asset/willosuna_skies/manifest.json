@@ -1,0 +1,111 @@
+{
+ "pack": "PSX Horror Skyboxes Lite",
+ "panorama_size": [
+  2048,
+  1024
+ ],
+ "cube_face": 512,
+ "cube_faces": "px nx py ny pz nz (+X -X +Y -Y +Z -Z)",
+ "looks": {
+  "panorama": "clean 2048 x 1024 equirectangular",
+  "panorama_psx": "PS1 style: 512 x 256 detail, 15-bit color, dithering, shown at 2048 x 1024"
+ },
+ "skies": [
+  {
+   "name": "night_clear_horizon",
+   "panorama": "night_clear_horizon/night_clear_horizon_panorama.png",
+   "panorama_psx": "night_clear_horizon/night_clear_horizon_panorama_psx.png",
+   "panorama_psx_native": "night_clear_horizon/night_clear_horizon_panorama_psx_512.png",
+   "cubemap": {
+    "px": "night_clear_horizon/night_clear_horizon_cube/px.png",
+    "nx": "night_clear_horizon/night_clear_horizon_cube/nx.png",
+    "py": "night_clear_horizon/night_clear_horizon_cube/py.png",
+    "ny": "night_clear_horizon/night_clear_horizon_cube/ny.png",
+    "pz": "night_clear_horizon/night_clear_horizon_cube/pz.png",
+    "nz": "night_clear_horizon/night_clear_horizon_cube/nz.png"
+   },
+   "cubemap_psx": {
+    "px": "night_clear_horizon/night_clear_horizon_cube_psx/px.png",
+    "nx": "night_clear_horizon/night_clear_horizon_cube_psx/nx.png",
+    "py": "night_clear_horizon/night_clear_horizon_cube_psx/py.png",
+    "ny": "night_clear_horizon/night_clear_horizon_cube_psx/ny.png",
+    "pz": "night_clear_horizon/night_clear_horizon_cube_psx/pz.png",
+    "nz": "night_clear_horizon/night_clear_horizon_cube_psx/nz.png"
+   },
+   "cube_strip": "night_clear_horizon/night_clear_horizon_cube_strip.png",
+   "cube_strip_psx": "night_clear_horizon/night_clear_horizon_cube_psx_strip.png"
+  },
+  {
+   "name": "blood_moon_horizon",
+   "panorama": "blood_moon_horizon/blood_moon_horizon_panorama.png",
+   "panorama_psx": "blood_moon_horizon/blood_moon_horizon_panorama_psx.png",
+   "panorama_psx_native": "blood_moon_horizon/blood_moon_horizon_panorama_psx_512.png",
+   "cubemap": {
+    "px": "blood_moon_horizon/blood_moon_horizon_cube/px.png",
+    "nx": "blood_moon_horizon/blood_moon_horizon_cube/nx.png",
+    "py": "blood_moon_horizon/blood_moon_horizon_cube/py.png",
+    "ny": "blood_moon_horizon/blood_moon_horizon_cube/ny.png",
+    "pz": "blood_moon_horizon/blood_moon_horizon_cube/pz.png",
+    "nz": "blood_moon_horizon/blood_moon_horizon_cube/nz.png"
+   },
+   "cubemap_psx": {
+    "px": "blood_moon_horizon/blood_moon_horizon_cube_psx/px.png",
+    "nx": "blood_moon_horizon/blood_moon_horizon_cube_psx/nx.png",
+    "py": "blood_moon_horizon/blood_moon_horizon_cube_psx/py.png",
+    "ny": "blood_moon_horizon/blood_moon_horizon_cube_psx/ny.png",
+    "pz": "blood_moon_horizon/blood_moon_horizon_cube_psx/pz.png",
+    "nz": "blood_moon_horizon/blood_moon_horizon_cube_psx/nz.png"
+   },
+   "cube_strip": "blood_moon_horizon/blood_moon_horizon_cube_strip.png",
+   "cube_strip_psx": "blood_moon_horizon/blood_moon_horizon_cube_psx_strip.png"
+  },
+  {
+   "name": "storm",
+   "panorama": "storm/storm_panorama.png",
+   "panorama_psx": "storm/storm_panorama_psx.png",
+   "panorama_psx_native": "storm/storm_panorama_psx_512.png",
+   "cubemap": {
+    "px": "storm/storm_cube/px.png",
+    "nx": "storm/storm_cube/nx.png",
+    "py": "storm/storm_cube/py.png",
+    "ny": "storm/storm_cube/ny.png",
+    "pz": "storm/storm_cube/pz.png",
+    "nz": "storm/storm_cube/nz.png"
+   },
+   "cubemap_psx": {
+    "px": "storm/storm_cube_psx/px.png",
+    "nx": "storm/storm_cube_psx/nx.png",
+    "py": "storm/storm_cube_psx/py.png",
+    "ny": "storm/storm_cube_psx/ny.png",
+    "pz": "storm/storm_cube_psx/pz.png",
+    "nz": "storm/storm_cube_psx/nz.png"
+   },
+   "cube_strip": "storm/storm_cube_strip.png",
+   "cube_strip_psx": "storm/storm_cube_psx_strip.png"
+  },
+  {
+   "name": "aurora",
+   "panorama": "aurora/aurora_panorama.png",
+   "panorama_psx": "aurora/aurora_panorama_psx.png",
+   "panorama_psx_native": "aurora/aurora_panorama_psx_512.png",
+   "cubemap": {
+    "px": "aurora/aurora_cube/px.png",
+    "nx": "aurora/aurora_cube/nx.png",
+    "py": "aurora/aurora_cube/py.png",
+    "ny": "aurora/aurora_cube/ny.png",
+    "pz": "aurora/aurora_cube/pz.png",
+    "nz": "aurora/aurora_cube/nz.png"
+   },
+   "cubemap_psx": {
+    "px": "aurora/aurora_cube_psx/px.png",
+    "nx": "aurora/aurora_cube_psx/nx.png",
+    "py": "aurora/aurora_cube_psx/py.png",
+    "ny": "aurora/aurora_cube_psx/ny.png",
+    "pz": "aurora/aurora_cube_psx/pz.png",
+    "nz": "aurora/aurora_cube_psx/nz.png"
+   },
+   "cube_strip": "aurora/aurora_cube_strip.png",
+   "cube_strip_psx": "aurora/aurora_cube_psx_strip.png"
+  }
+ ]
+}
